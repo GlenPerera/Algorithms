@@ -1,3 +1,5 @@
+package Practice1;
+
 public class primeNumebrs {
 
    private static boolean isPrime(int n) {

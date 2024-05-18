@@ -1,3 +1,5 @@
+package Practice1;
+
 public class FibPractice {
 
     public static void fibonaaciPattern(int count){

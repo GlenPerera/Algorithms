@@ -1,3 +1,5 @@
+package Practice1;
+
 public class BubbleSort {
 
    public static void bubbleSort(int[] arr){

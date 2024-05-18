@@ -1,3 +1,5 @@
+package Practice1;
+
 import java.util.Scanner;
 
 public class Factorial {
@@ -16,6 +18,6 @@ public class Factorial {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number: ");
         int n = sc.nextInt();
-        System.out.println("Factorial of "+n+" is "+factorial(n));
+        System.out.println("Practice1.Factorial of "+n+" is "+factorial(n));
     }
 }
